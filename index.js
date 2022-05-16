@@ -30,3 +30,5 @@ function fun(){
 
 //call a functinon 
 fun();
+
+//this is a function
