@@ -20,3 +20,13 @@ console.log(num1 %6);
 //Increment/Decrement by any number you want
 num1 +=120; //put the number here 
 console.log(num1);
+
+
+// function
+// 1 creating a function
+function fun(){
+  alert('This is a function')
+}
+
+//call a functinon 
+fun();
